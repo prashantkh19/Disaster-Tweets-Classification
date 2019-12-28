@@ -47,6 +47,12 @@ The approach involves fine-tuning a pre-trained language model in un-supervised 
 
 <I>The images are taken from the [fastai NLP page](http://nlp.fast.ai/).</I>
 
+# Code:
+
+The code is written using [fastai](https://docs.fast.ai/) modules based on [pytorch](https://pytorch.org/docs/stable/index.html).
+
+Kaggle Kernel is used to code the whole project. The notebook can be viewed [here](https://www.kaggle.com/prashantkh19/disaster-tweets).
+
 # Results:
 
 - Got a public score of `0.80764` on the competition's test set.
