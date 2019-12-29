@@ -69,3 +69,5 @@ Kaggle Kernel is used to code the whole project. The notebook can be viewed [her
 </p>
 
 > **The notebook can be easily viewed [here](https://www.kaggle.com/prashantkh19/disaster-tweets).**
+
+        The Project is in progress for further improvement in performance scores.
