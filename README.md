@@ -45,6 +45,11 @@ training from scratch with different numbers of training examples on IMDb:**
 
 The approach involves fine-tuning a pre-trained language model in un-supervised manner and then using the encoder to build the classifier.
 
+### Other improvements used:
+- Slanted Triangular Learning Rates
+- Discriminate Learning Rate 
+- Gradual unfreezing 
+
 <I>The images are taken from the [fastai NLP page](http://nlp.fast.ai/).</I>
 
 # Code:
